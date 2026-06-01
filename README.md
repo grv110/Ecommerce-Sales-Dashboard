@@ -1,4 +1,3 @@
-E-Commerce Sales Dashboard using Power BI
 Project Overview
 
 This project focuses on analyzing e-commerce sales data and building an interactive dashboard to identify sales trends, customer behavior, profit patterns, and business insights.
@@ -9,6 +8,8 @@ Identify profitable states and categories
 Understand customer purchasing behavior
 Track monthly profit trends
 Monitor payment preferences
+
+
 Tools Used
 Power BI
 Excel / CSV
